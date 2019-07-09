@@ -1,0 +1,67 @@
+VTN (Vertical Thomson Scattering) #35128 2s
+  edge (Line of sight)
+     1. From R= 2.118m, z= 0.391m, phi=123.900
+        To   R= 2.118m, z= 0.417m, phi=123.900
+     2. From R= 2.118m, z= 0.328m, phi=123.900
+        To   R= 2.118m, z= 0.354m, phi=123.900
+     3. From R= 2.118m, z= 0.266m, phi=123.900
+        To   R= 2.118m, z= 0.292m, phi=123.900
+     4. From R= 2.118m, z= 0.205m, phi=123.900
+        To   R= 2.118m, z= 0.231m, phi=123.900
+     5. From R= 2.118m, z= 0.144m, phi=123.900
+        To   R= 2.118m, z= 0.170m, phi=123.900
+     6. From R= 2.118m, z= 0.084m, phi=123.900
+        To   R= 2.118m, z= 0.110m, phi=123.900
+     7. From R= 2.118m, z= 0.023m, phi=123.900
+        To   R= 2.118m, z= 0.049m, phi=123.900
+     8. From R= 2.118m, z=-0.039m, phi=123.900
+        To   R= 2.118m, z=-0.013m, phi=123.900
+     9. From R= 2.118m, z=-0.103m, phi=123.900
+        To   R= 2.118m, z=-0.077m, phi=123.900
+    10. From R= 2.118m, z=-0.169m, phi=123.900
+        To   R= 2.118m, z=-0.143m, phi=123.900
+    11. From R= 2.118m, z=-0.237m, phi=123.900
+        To   R= 2.118m, z=-0.211m, phi=123.900
+    12. From R= 2.118m, z= 0.000m, phi=123.900
+        To   R= 2.118m, z= 0.000m, phi=123.900
+    13. From R= 2.118m, z= 0.000m, phi=123.900
+        To   R= 2.118m, z= 0.000m, phi=123.900
+    14. From R= 2.118m, z= 0.000m, phi=123.900
+        To   R= 2.118m, z= 0.000m, phi=123.900
+    15. From R= 2.118m, z= 0.000m, phi=123.900
+        To   R= 2.118m, z= 0.000m, phi=123.900
+    16. From R= 2.118m, z= 0.000m, phi=123.900
+        To   R= 2.118m, z= 0.000m, phi=123.900
+  core (Line of sight)
+     1. From R= 1.778m, z= 0.226m, phi=123.900
+        To   R= 1.778m, z= 0.251m, phi=123.900
+     2. From R= 1.778m, z= 0.168m, phi=123.900
+        To   R= 1.778m, z= 0.193m, phi=123.900
+     3. From R= 1.778m, z= 0.111m, phi=123.900
+        To   R= 1.778m, z= 0.136m, phi=123.900
+     4. From R= 1.778m, z= 0.053m, phi=123.900
+        To   R= 1.778m, z= 0.078m, phi=123.900
+     5. From R= 1.778m, z=-0.004m, phi=123.900
+        To   R= 1.778m, z= 0.021m, phi=123.900
+     6. From R= 1.778m, z=-0.061m, phi=123.900
+        To   R= 1.778m, z=-0.036m, phi=123.900
+     7. From R= 1.778m, z=-0.121m, phi=123.900
+        To   R= 1.778m, z=-0.096m, phi=123.900
+     8. From R= 1.778m, z=-0.183m, phi=123.900
+        To   R= 1.778m, z=-0.158m, phi=123.900
+     9. From R= 1.778m, z=-0.237m, phi=123.900
+        To   R= 1.778m, z=-0.212m, phi=123.900
+    10. From R= 1.778m, z=-0.295m, phi=123.900
+        To   R= 1.778m, z=-0.270m, phi=123.900
+    11. From R= 1.778m, z=-0.357m, phi=123.900
+        To   R= 1.778m, z=-0.332m, phi=123.900
+    12. From R= 1.778m, z=-0.411m, phi=123.900
+        To   R= 1.778m, z=-0.386m, phi=123.900
+    13. From R= 1.778m, z=-0.471m, phi=123.900
+        To   R= 1.778m, z=-0.446m, phi=123.900
+    14. From R= 1.778m, z=-0.530m, phi=123.900
+        To   R= 1.778m, z=-0.505m, phi=123.900
+    15. From R= 1.778m, z=-0.591m, phi=123.900
+        To   R= 1.778m, z=-0.566m, phi=123.900
+    16. From R= 1.778m, z=-0.653m, phi=123.900
+        To   R= 1.778m, z=-0.628m, phi=123.900

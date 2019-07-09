@@ -1,0 +1,134 @@
+HEB (Thermical He beam spectroscopy) #35128 2s
+  HEB-4 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.083m, z=-0.133m, phi=342.542
+  HEB-3 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.087m, z=-0.133m, phi=342.591
+  HEB-2 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.091m, z=-0.135m, phi=342.530
+  HEB-1 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.094m, z=-0.136m, phi=342.545
+  HEB+0 (Line of sight)
+   -10. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.090m, z=-0.166m, phi=342.970
+    -8. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.091m, z=-0.161m, phi=342.829
+    -6. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.093m, z=-0.154m, phi=342.814
+    -4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.094m, z=-0.149m, phi=342.672
+    -2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.095m, z=-0.142m, phi=342.663
+     0. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.097m, z=-0.136m, phi=342.566
+     2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.099m, z=-0.129m, phi=342.533
+     4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.100m, z=-0.124m, phi=342.436
+     6. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.102m, z=-0.117m, phi=342.448
+     8. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.103m, z=-0.111m, phi=342.365
+    10. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.105m, z=-0.104m, phi=342.290
+  HEB+1 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.101m, z=-0.137m, phi=342.607
+  HEB+2 (Line of sight)
+    -4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.101m, z=-0.151m, phi=342.677
+    -2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.102m, z=-0.144m, phi=342.654
+     0. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.104m, z=-0.138m, phi=342.535
+     2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.105m, z=-0.132m, phi=342.505
+     4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.107m, z=-0.124m, phi=342.535
+  HEB+3 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.108m, z=-0.138m, phi=342.597
+  HEB+4 (Line of sight)
+    -4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.108m, z=-0.151m, phi=342.699
+    -2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.110m, z=-0.145m, phi=342.665
+     0. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.111m, z=-0.140m, phi=342.514
+     2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.113m, z=-0.133m, phi=342.543
+     4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.114m, z=-0.127m, phi=342.456
+  HEB+5 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.114m, z=-0.140m, phi=342.622
+  HEB+6 (Line of sight)
+    -4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.115m, z=-0.154m, phi=342.644
+    -2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.116m, z=-0.147m, phi=342.577
+     0. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.117m, z=-0.141m, phi=342.599
+     2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.119m, z=-0.135m, phi=342.525
+     4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.121m, z=-0.129m, phi=342.430
+  HEB+7 (Line of sight)
+   From R= 2.298m, z= 0.087m, phi=360.710
+   To   R= 2.121m, z=-0.141m, phi=342.616
+  HEB+8 (Line of sight)
+    -4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.121m, z=-0.155m, phi=342.657
+    -2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.123m, z=-0.148m, phi=342.649
+     0. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.125m, z=-0.143m, phi=342.566
+     2. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.126m, z=-0.136m, phi=342.561
+     4. From R= 2.298m, z= 0.087m, phi=360.710
+        To   R= 2.128m, z=-0.131m, phi=342.458
+  HEB+9 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.116m, z=-0.141m, phi=342.601
+  HEB+10 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.120m, z=-0.141m, phi=342.617
+  HEB+11 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.123m, z=-0.143m, phi=342.523
+  HEB+12 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.126m, z=-0.144m, phi=342.555
+  HEB+13 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.130m, z=-0.145m, phi=342.530
+  HEB+14 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.133m, z=-0.145m, phi=342.599
+  HEB+15 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.137m, z=-0.146m, phi=342.587
+  HEB+16 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.140m, z=-0.147m, phi=342.520
+  HEB+17 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.144m, z=-0.148m, phi=342.561
+  HEB+18 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.147m, z=-0.149m, phi=342.552
+  HEB+19 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.150m, z=-0.150m, phi=342.537
+  HEB+20 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.154m, z=-0.151m, phi=342.522
+  HEB+21 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.157m, z=-0.152m, phi=342.532
+  HEB+22 (Line of sight)
+   From R= 2.347m, z= 0.090m, phi=361.438
+   To   R= 2.161m, z=-0.152m, phi=342.540
