@@ -60,7 +60,7 @@ def get_los(full_path):
                 los.update({"0":{"R": R, "z":z, "phi":phi}})
             else:
                 los.update({block[idx].split()[0]:{"R": R, "z":z, "phi":phi}})
-        los_diag["signals"].update({lines[ii].split()[0]:los})
+        los_diag["signals"].update({lines[ii][:lines[ii].index("(")-1]:los})
         
     file.close()
     return los_diag
@@ -69,8 +69,9 @@ if __name__ == "__main__":
     working_dir = os.getcwd()
     examples_dir = "../../files/"
     path = os.path.join(working_dir, examples_dir)
-    file_name = 'diaggeom_Interf.coords'
+    file_name = 'diaggeom_TS.coords'
     los_diag = get_los(os.path.join(path, file_name))
+    print los_diag
     
 
         
